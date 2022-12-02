@@ -1,0 +1,8 @@
+D:\ЗКИ\ЛР07\pass\Part01\bin\Debug\Part01.exe.config
+D:\ЗКИ\ЛР07\pass\Part01\bin\Debug\Part01.exe
+D:\ЗКИ\ЛР07\pass\Part01\bin\Debug\Part01.pdb
+D:\ЗКИ\ЛР07\pass\Part01\obj\Debug\Part01.csproj.AssemblyReference.cache
+D:\ЗКИ\ЛР07\pass\Part01\obj\Debug\Part01.csproj.SuggestedBindingRedirects.cache
+D:\ЗКИ\ЛР07\pass\Part01\obj\Debug\Part01.csproj.CoreCompileInputs.cache
+D:\ЗКИ\ЛР07\pass\Part01\obj\Debug\Part01.exe
+D:\ЗКИ\ЛР07\pass\Part01\obj\Debug\Part01.pdb

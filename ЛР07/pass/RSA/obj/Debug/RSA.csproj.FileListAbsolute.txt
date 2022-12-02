@@ -1,0 +1,8 @@
+D:\ЗКИ\ЛР07\pass\RSA\bin\Debug\RSA.exe.config
+D:\ЗКИ\ЛР07\pass\RSA\bin\Debug\RSA.exe
+D:\ЗКИ\ЛР07\pass\RSA\bin\Debug\RSA.pdb
+D:\ЗКИ\ЛР07\pass\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+D:\ЗКИ\ЛР07\pass\RSA\obj\Debug\RSA.csproj.SuggestedBindingRedirects.cache
+D:\ЗКИ\ЛР07\pass\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\ЗКИ\ЛР07\pass\RSA\obj\Debug\RSA.exe
+D:\ЗКИ\ЛР07\pass\RSA\obj\Debug\RSA.pdb
