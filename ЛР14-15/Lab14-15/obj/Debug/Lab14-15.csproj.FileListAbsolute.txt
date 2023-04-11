@@ -1,0 +1,11 @@
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\bin\Debug\Lab14-15.exe.config
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\bin\Debug\Lab14-15.exe
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\bin\Debug\Lab14-15.pdb
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.csproj.AssemblyReference.cache
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14_15.Form1.resources
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14_15.Properties.Resources.resources
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.csproj.GenerateResource.cache
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.csproj.CoreCompileInputs.cache
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.exe
+C:\GitHub\Protection-of-computer-information\Lab14-15\Lab14-15\obj\Debug\Lab14-15.pdb
